@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://LIZ:HHII1234@qapphost.kwsit.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "Secret"
+}
