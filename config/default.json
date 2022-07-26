@@ -1,4 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://LIZ:HHII1234@qapphost.kwsit.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "mongoURI": "mongodb+srv://LLLZZZ:8XJp1cHE9Q7e7sHZ@newrqhdb.7nsfjo9.mongodb.net/?retryWrites=true&w=majority",
     "jwtSecret": "Secret"
 }
