@@ -8,3 +8,4 @@ This is a full CRUD application that utilizes React, NodeJs, MongoDB, Mongoose, 
 Logged out users can only access public quizzes, the user name of the quiz creator, and the view count. 
 This app will be improved upon in the future. 
 For the back and front end commit histories, please see QHost-BackEnd  and QHost-Client.
+Any development URI's found in these repos correspond to databases that no longer exist. 
